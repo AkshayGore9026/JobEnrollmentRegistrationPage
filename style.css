@@ -1,0 +1,22 @@
+input{
+    border: none;
+    border-radius: 3px;
+}
+textarea{
+    border-radius: 5px;
+}
+#btn{
+ background-color: black;
+ color: white;    
+}
+.container{
+    height: 560px;
+    width: 400px;
+    background-color:darkkhaki;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 400px;
+    box-shadow: 0 0 5px gray;
+
+    
+}
